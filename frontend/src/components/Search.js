@@ -15,7 +15,11 @@ const Search = (props) => {
                                 placeholder="Search for new image" />
                         </Col>
                         <Col>
-                            <Button variant='primary' type='submit'>Search for new image</Button>
+                            <Button
+                                variant='primary'
+                                type='submit'>
+                                Search for new image
+                            </Button>
                         </Col>
                     </Row>
                 </Form>
